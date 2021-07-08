@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning trend technology
 - 💞️ I’m looking to collaborate on Technology development
-- 📫 How to reach me instagram : arsalan__nury 
+- 📫 How to reach me ? instagram : arsalan__nury and linkedIn : Arsalan Nury 
 
 <!---
 arsalannury/arsalannury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
