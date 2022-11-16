@@ -10,7 +10,6 @@
 - 🔭 I’m currently working on [WhatsApp Clone](https://github.com/arsalannury/whatsApp-clone)  
   
 
-- 🌱 I’m currently learning Next Js and React Query 👽  
   
 
   
