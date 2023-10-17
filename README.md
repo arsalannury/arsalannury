@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Express Js**
 
-- 👨‍💻 All of my projects are available at [here :)](here :))
-
 - 📝 I regularly write articles on [Dev.to](Dev.to)
 
 - 💬 Ask me about **frontend development**
