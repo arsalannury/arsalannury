@@ -23,6 +23,6 @@ I've worked on enterprise web applications, cross-platform mobile applications, 
 
 ### Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/arsalannuryy?utm_source=share_via&utm_content=profile&utm_medium=member_ios) · [Email](https://arsalannuryy@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/arsalannuryy) · [Email](https://arsalannuryy@gmail.com)
 
 
